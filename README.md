@@ -1,2 +1,2 @@
-# nov23
-my first git hub 
+
+Sample content
